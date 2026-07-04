@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sasageo
-- 👀 I’m interested in Anime and C#
+- 👀 I’m interested in C# and GameDeveloping
 - 🌱 I’m currently learning C# and Unity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
